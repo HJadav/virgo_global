@@ -1,4 +1,4 @@
-package com.virog_blobal
+package com.virgo.global
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.virog_blobal"
+    namespace "com.virgo.global"
     defaultConfig {
-        applicationId "com.virog_blobal"
+        applicationId "com.virgo.global"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
